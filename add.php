@@ -7,8 +7,6 @@ $b = 10;
 
 echo $a + $b;
 
-
-
 // subraction 
 
 $a = 100;
